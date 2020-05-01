@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "thatkindaparty-e881c"
+  },
+  "targets": {
+    "thatkindaparty-e881c": {
+      "hosting": {
+        "select": [
+          "thatkindaparty-e881c-select"
+        ]
+      }
+    }
+  }
+}

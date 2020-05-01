@@ -1,6 +1,5 @@
 .idea
 **/node_modules/*
-**/.firebaserc
 
 .runtimeconfig.json
 .firebase/
